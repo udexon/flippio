@@ -1,2 +1,2 @@
 # flippio
-Flippio Fibonacci Network 时习之视频教学法
+Flippio Fibonacci Network 群动制作视频教学法
